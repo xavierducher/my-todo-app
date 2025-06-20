@@ -29,5 +29,6 @@ st.text_input(label="Enter a todo",
               on_change=add_todo,
               key='new_todo')
 
-st.session_state
+# Add the following for debug purpose
+# st.session_state
 
